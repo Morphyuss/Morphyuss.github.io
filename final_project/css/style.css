@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Lacquer&display=swap');
+
+body {
+  font-family: "Lacquer", sans-serif;
+  font-size: 18px;
+}
+img {
+  max-width: 145px;
+  padding: 10px;
+}
